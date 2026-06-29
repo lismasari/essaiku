@@ -1,0 +1,52 @@
+[
+  {
+    "Nama": "ica",
+    "Kode Topik": "WQ8RPN",
+    "Mata Kuliah": "deep learning",
+    "Nama Topik": "kuis",
+    "Jumlah Soal": 2,
+    "Skor Rata-rata": 50.0,
+    "Waktu Total (mnt)": 1,
+    "Tanggal": "28/06/2026 13:57"
+  },
+  {
+    "Nama": "uti",
+    "Kode Topik": "WQ8RPN",
+    "Mata Kuliah": "deep learning",
+    "Nama Topik": "kuis",
+    "Jumlah Soal": 2,
+    "Skor Rata-rata": 40.0,
+    "Waktu Total (mnt)": 1,
+    "Tanggal": "28/06/2026 21:20"
+  },
+  {
+    "Nama": "uti",
+    "Kode Topik": "AMXP8D",
+    "Mata Kuliah": "Pengembangan sistem cerdas",
+    "Nama Topik": "tugas",
+    "Jumlah Soal": 1,
+    "Skor Rata-rata": 90.0,
+    "Waktu Total (mnt)": 0,
+    "Tanggal": "28/06/2026 21:22"
+  },
+  {
+    "Nama": "LISMA SARI",
+    "Kode Topik": "WQ8RPN",
+    "Mata Kuliah": "deep learning",
+    "Nama Topik": "kuis",
+    "Jumlah Soal": 2,
+    "Skor Rata-rata": 77.5,
+    "Waktu Total (mnt)": 1,
+    "Tanggal": "29/06/2026 08:39"
+  },
+  {
+    "Nama": "lisma",
+    "Kode Topik": "H2A73V",
+    "Mata Kuliah": "Pengembangan sistem cerdas",
+    "Nama Topik": "tugas",
+    "Jumlah Soal": 1,
+    "Skor Rata-rata": 30.0,
+    "Waktu Total (mnt)": 16,
+    "Tanggal": "29/06/2026 13:39"
+  }
+]

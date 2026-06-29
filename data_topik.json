@@ -1,0 +1,52 @@
+[
+  {
+    "kode": "WQ8RPN",
+    "dosen": "LISMA SARI",
+    "mata_kuliah": "deep learning",
+    "nama_topik": "kuis",
+    "durasi": 30,
+    "soal_list": [
+      {
+        "soal": "apa yang di maksud deep learning",
+        "kunci": "Deep Learning adalah cabang dari kecerdasan buatan (AI) yang menggunakan jaringan saraf tiruan dengan banyak lapisan untuk mempelajari pola kompleks dari data. Dalam konteks pendidikan, istilah ini juga dipakai untuk pendekatan belajar mendalam yang menekankan pemahaman konsep secara utuh, bukan sekadar hafalan.",
+        "min_kata": 7
+      },
+      {
+        "soal": "berikan contok aplikasinya",
+        "kunci": "Computer vision: pengenalan wajah, deteksi objek.\n\nNatural Language Processing (NLP): terjemahan otomatis, chatbot.\n\nSpeech recognition: asisten suara seperti Siri atau Copilot.",
+        "min_kata": 6
+      }
+    ],
+    "dibuat": "27/06/2026 21:24"
+  },
+  {
+    "kode": "AMXP8D",
+    "dosen": "LISMA SARI",
+    "mata_kuliah": "Pengembangan sistem cerdas",
+    "nama_topik": "tugas",
+    "durasi": 30,
+    "soal_list": [
+      {
+        "soal": "apa itu sistem",
+        "kunci": "sistem adalah",
+        "min_kata": 20
+      }
+    ],
+    "dibuat": "28/06/2026 17:33"
+  },
+  {
+    "kode": "H2A73V",
+    "dosen": "lisma",
+    "mata_kuliah": "Pengembangan sistem cerdas",
+    "nama_topik": "tugas",
+    "durasi": 30,
+    "soal_list": [
+      {
+        "soal": "apa yang dimaksud dengan sisitem",
+        "kunci": "Sederhananya, sistem adalah sekumpulan komponen yang saling berhubungan dan bekerja sama untuk mencapai tujuan tertentu. Komponen ini bisa berupa orang, perangkat, prosedur, data, atau teknologi.",
+        "min_kata": 8
+      }
+    ],
+    "dibuat": "29/06/2026 12:14"
+  }
+]
